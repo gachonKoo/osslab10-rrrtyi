@@ -1,1 +1,1 @@
-git restore .
+$ git checkout -- file.txt
